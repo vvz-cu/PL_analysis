@@ -1,7 +1,6 @@
 # Photoluminescence Analysis
 
 ## Table of Contents
-***
 - [Overview](#overview)
 - [Analyses](#analyses)
     - [Photoluminescence Statistical Analysis (PLSA)](#PLSA)
@@ -20,7 +19,6 @@
   
 <a id="overview"></a>
 ## Overview
-***
 This set of Jupyter Notebooks introduces new techniques for batch processing and analysing photoluminescence (PL) data using the Pandas Python library. Although originally written for the study of hyprid perovskite thin films, **this code can be applied to almost any set of PL data.** Refer to the [Experimental Configuration](#experimental-configuration) and the two "Usage" sections ([PL statistical analysis](#PLSA_Usage) and [intensity-dependent PL](#IDPL_Usage)) for more information on transferrability to different data sets and experimental setups.
 
 ### Photoluminescence Statistical Analysis (PLSA)
@@ -221,7 +219,6 @@ Updates coming soon.
 
 <a id="requirements"></a>
 ## Requirements
-***
 Python 3.8.8
 
 The notebooks use the following libraries:
@@ -237,5 +234,4 @@ The notebooks use the following libraries:
 
 <a id="sample-data"></a>
 ## Sample Data
-***
 Sample data for both the PLSA and IDPL analyses with the correct file structure and format can be downloaded __[here](https://raw.githubusercontent.com/vvz-cu/PL_analysis/main/sampledata/SampleData.zip)__.
