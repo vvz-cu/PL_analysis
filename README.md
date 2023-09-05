@@ -45,7 +45,6 @@ Update coming soon.
 
 <a id="analyses"></a>
 ## Analyses  
-***
 <a id="PLSA"></a>
 ## Photoluminescence Statistical Anslysis (PLSA)
 Given the photoluminescence data this notebook can perform a statistical analysis on the PL emission and extract the Urbach energies from mean PL emissions. Inputed UV/vis absorption spectra will allow for the calculation of bandgap energy. With parameters extracted from the statistical analysis (and with additional sample parameters if inputed), the notebook will perform a linear correlation analysis between the parameters.
